@@ -1,2 +1,4 @@
 # myrepo
-MACS 30500 Setup Test
+This is a line from RStudio
+x <- 2 + 5
+print(x)
